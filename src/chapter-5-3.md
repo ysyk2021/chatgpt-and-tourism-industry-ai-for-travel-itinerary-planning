@@ -3,11 +3,6 @@ How ChatGPT can be used for Travel Itinerary Planning
 
 In this chapter, we will explore in detail the capabilities of ChatGPT and how it can be utilized for travel itinerary planning.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an advanced language model developed by OpenAI that uses deep learning techniques to generate human-like responses to text input. The model has been trained on a large corpus of text data and has the ability to understand natural language and generate coherent and relevant responses.
-
 How Can ChatGPT Be Used for Travel Itinerary Planning?
 ------------------------------------------------------
 

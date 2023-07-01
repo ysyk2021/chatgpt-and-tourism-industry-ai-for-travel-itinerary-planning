@@ -3,11 +3,6 @@ Importance of Tourism Industry for Local Economies
 
 In this chapter, we will explore the basics of the tourism industry and its importance for local economies.
 
-What is the Tourism Industry?
------------------------------
-
-The tourism industry encompasses all activities related to travel for leisure, business, or other purposes. This includes transportation, accommodation, food and beverage services, recreation, and entertainment.
-
 Importance of Tourism Industry for Local Economies
 --------------------------------------------------
 
