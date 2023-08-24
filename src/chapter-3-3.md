@@ -1,5 +1,3 @@
-Impact of these challenges on travel experience
-===================================================================================================
 
 In this chapter, we will explore the challenges that travelers face when planning their itineraries and the impact these challenges have on the travel experience.
 

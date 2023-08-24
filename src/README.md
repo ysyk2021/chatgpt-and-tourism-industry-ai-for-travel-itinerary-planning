@@ -1,4 +1,3 @@
-# Introduction
 
 ChatGPT and Tourism Industry: AI for Travel Itinerary Planning is a book that explores the potential of artificial intelligence (AI) in transforming the tourism industry. The book provides an overview of using ChatGPT to create personalized travel experiences that meet the unique needs and preferences of each tourist.
 

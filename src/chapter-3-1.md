@@ -1,5 +1,3 @@
-Factors Affecting Travel Itinerary Planning
-===============================================================================================
 
 In this chapter, we will explore the factors that affect travel itinerary planning and contribute to the challenges faced by travelers.
 

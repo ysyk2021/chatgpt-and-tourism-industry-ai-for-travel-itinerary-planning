@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 In this chapter, we will explore what ChatGPT is and how it works. ChatGPT is a state-of-the-art natural language processing model that is capable of generating human-like responses to user queries.
 

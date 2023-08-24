@@ -1,5 +1,3 @@
-Importance of Tourism Industry for Local Economies
-=========================================================================================
 
 In this chapter, we will explore the basics of the tourism industry and its importance for local economies.
 

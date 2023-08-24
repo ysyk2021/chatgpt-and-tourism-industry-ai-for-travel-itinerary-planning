@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 In this chapter, we will explore the features and capabilities of ChatGPT, a state-of-the-art natural language processing model that is capable of generating human-like responses to user queries.
 

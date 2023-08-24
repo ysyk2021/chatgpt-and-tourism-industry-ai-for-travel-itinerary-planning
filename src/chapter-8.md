@@ -1,5 +1,3 @@
-Chapter 5: Conclusion
-=====================
 
 Summary of Key Points
 ---------------------

@@ -1,5 +1,3 @@
-How ChatGPT can be used for Travel Itinerary Planning
-=======================================================================================
 
 In this chapter, we will explore in detail the capabilities of ChatGPT and how it can be utilized for travel itinerary planning.
 

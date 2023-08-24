@@ -1,5 +1,3 @@
-Common Challenges Faced by Travelers
-========================================================================================
 
 In this chapter, we will explore some of the common challenges faced by travelers when planning their itineraries.
 

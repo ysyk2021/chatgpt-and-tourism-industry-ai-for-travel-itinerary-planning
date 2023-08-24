@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 This book explores the intersection of the tourism industry and artificial intelligence (AI), with a specific focus on the role of ChatGPT in travel itinerary planning.
 

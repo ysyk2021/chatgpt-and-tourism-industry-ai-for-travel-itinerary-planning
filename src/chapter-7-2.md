@@ -1,5 +1,3 @@
-Emerging Trends and Challenges in Tourism Industry and ChatGPT
-==================================================================================================================
 
 In this chapter, we will discuss the emerging trends and challenges that may impact the future of the tourism industry and the use of ChatGPT for travel itinerary planning.
 

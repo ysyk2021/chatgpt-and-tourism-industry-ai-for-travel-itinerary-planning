@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Travel Itinerary Planning
-===================================================================
 
 In this chapter, we will explore the role of AI and chatbots in travel itinerary planning and how they can improve the travel planning experience.
 

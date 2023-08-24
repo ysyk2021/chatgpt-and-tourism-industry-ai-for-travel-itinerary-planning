@@ -1,5 +1,3 @@
-Chapter 1: Basics of Tourism Industry
-=====================================
 
 In this chapter, we will explore the basics of the tourism industry, including its definition, different types of tourism, and importance for local economies.
 

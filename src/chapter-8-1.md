@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential benefits and challenges of using ChatGPT for travel itinerary planning in the tourism industry. Here is a summary of the key points:
 

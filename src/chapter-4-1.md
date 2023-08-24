@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-====================================================================================================
 
 In this chapter, we will introduce the concepts of AI and chatbots and how they are used in travel itinerary planning.
 

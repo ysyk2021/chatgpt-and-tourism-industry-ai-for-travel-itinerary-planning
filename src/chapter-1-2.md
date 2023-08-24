@@ -1,5 +1,3 @@
-Explanation of the Importance of Tourism Industry
-===============================================================
 
 The tourism industry is a vital contributor to economies around the world. It provides employment opportunities, generates revenue for local businesses and governments, and stimulates economic activity in the areas where it operates.
 

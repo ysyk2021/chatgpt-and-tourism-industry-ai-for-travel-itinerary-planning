@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Travel Itinerary Planning
-==================================================
 
 In this chapter, we will explore the challenges faced by travelers when planning their itineraries and the impact these challenges have on the travel experience.
 

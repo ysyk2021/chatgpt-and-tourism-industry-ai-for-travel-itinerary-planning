@@ -1,5 +1,3 @@
-The Role of ChatGPT in Travel Itinerary Planning
-==============================================================
 
 In recent years, there has been a surge in the use of artificial intelligence (AI) and chatbots in the tourism industry to enhance the travel experience for customers. One area where AI and chatbots have shown significant potential is in travel itinerary planning.
 

@@ -1,5 +1,3 @@
-Definition of Tourism Industry
-=====================================================================
 
 In this chapter, we will explore the definition of the tourism industry and its key components.
 
