@@ -8,3 +8,7 @@ Throughout this book, readers will learn about the different applications of Cha
 By the end of the book, readers will have a solid understanding of how to leverage ChatGPT's capabilities to revolutionize travel itinerary planning, creating more personalized, immersive, and effective travel experiences for tourists around the world. Whether you are a tourism professional, marketer, or enthusiast, this book will provide valuable insights and practical knowledge on the use of ChatGPT in tourism.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
