@@ -1,5 +1,4 @@
-Chapter 9: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we reflect on the impact of ChatGPT and AI in the tourism industry for travel itinerary planning and explore the exciting possibilities and challenges that lie ahead.
 

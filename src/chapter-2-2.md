@@ -1,5 +1,4 @@
-Chapter 5: Different Types of Tourism
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The tourism industry encompasses a wide range of travel experiences, catering to diverse interests and motivations. In this chapter, we explore various types of tourism, each offering unique opportunities and experiences for travelers.
 

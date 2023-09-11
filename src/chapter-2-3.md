@@ -1,5 +1,4 @@
-Chapter 4: Importance of the Tourism Industry for Local Economies
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The tourism industry plays a pivotal role in the economic development of regions, cities, and countries around the world. In this chapter, we explore the significant impact of tourism on local economies and the various ways it contributes to growth, employment, and prosperity.
 

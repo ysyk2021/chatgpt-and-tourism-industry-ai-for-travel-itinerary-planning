@@ -1,5 +1,4 @@
-Chapter 3: Common Challenges Faced by Travelers
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Traveling can be an exciting and enriching experience, but it's not without its challenges. In this chapter, we will explore some of the common challenges faced by travelers in today's dynamic tourism landscape.
 

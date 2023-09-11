@@ -1,5 +1,4 @@
-Chapter 3: How AI and Chatbots Can Improve Travel Itinerary Planning
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the various ways in which AI and chatbots can revolutionize and enhance the process of travel itinerary planning within the tourism industry. From personalized recommendations to seamless booking processes, these technologies offer substantial improvements for both travelers and businesses.
 

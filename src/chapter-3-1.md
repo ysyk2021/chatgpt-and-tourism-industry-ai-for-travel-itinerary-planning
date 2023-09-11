@@ -1,5 +1,4 @@
-Chapter 2: Factors Affecting Travel Itinerary Planning
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the modern age of travel, planning the perfect itinerary is both an art and a science. Numerous factors come into play, influencing how travelers craft their journeys. In this chapter, we will delve into the key factors that affect travel itinerary planning, shedding light on the complexities travelers face when designing their adventures.
 

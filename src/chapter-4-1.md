@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving landscape of the tourism industry, the integration of Artificial Intelligence (AI) and chatbots has emerged as a game-changer for travel itinerary planning. This chapter serves as an introduction to the concepts of AI and chatbots, elucidating their significance in the tourism sector.
 

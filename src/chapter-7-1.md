@@ -1,5 +1,4 @@
-Chapter 7: Potential Advancements in the Tourism Industry with ChatGPT
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, with its natural language processing and artificial intelligence capabilities, has the potential to drive significant advancements in the tourism industry. In this chapter, we explore various areas where ChatGPT can revolutionize and enhance the travel experience.
 

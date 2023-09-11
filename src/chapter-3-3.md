@@ -1,5 +1,4 @@
-Chapter 7: Impact of These Challenges on Travel Experience
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine how the challenges discussed earlier in this book affect the overall travel experience of tourists and travelers in the context of AI-powered travel itinerary planning using ChatGPT.
 

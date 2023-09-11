@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this introductory chapter, we delve into the fundamental concept of ChatGPT, understanding its significance in the context of the tourism industry and travel itinerary planning.
 

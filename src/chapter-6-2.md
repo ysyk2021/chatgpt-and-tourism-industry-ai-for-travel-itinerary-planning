@@ -1,5 +1,4 @@
-Chapter 5: Best Practices for Using ChatGPT in Improving Travel Experience
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the world of tourism and travel itinerary planning, ChatGPT has emerged as a valuable tool for enhancing the traveler's experience. This chapter delves into the best practices for harnessing the power of ChatGPT to create memorable and personalized travel experiences.
 

@@ -1,5 +1,4 @@
-Chapter 7: Case Studies of Travel Companies Implementing ChatGPT for Travel Itinerary Planning
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore real-world examples of travel companies that have successfully harnessed the power of ChatGPT and AI for travel itinerary planning. These case studies highlight the impact of AI-driven chatbots on improving the traveler's experience and streamlining travel services.
 

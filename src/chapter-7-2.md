@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends and Challenges in the Tourism Industry and ChatGPT
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the evolving landscape of the tourism industry and the concurrent trends and challenges that ChatGPT and AI-powered solutions must navigate.
 

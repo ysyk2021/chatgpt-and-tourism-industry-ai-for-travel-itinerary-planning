@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the features and capabilities of ChatGPT, the AI-powered tool that is revolutionizing travel itinerary planning in the tourism industry.
 

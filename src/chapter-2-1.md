@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Tourism Industry
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The tourism industry is a multifaceted sector encompassing various activities, services, and businesses that cater to travelers' needs and desires. It revolves around the concept of individuals or groups traveling away from their usual place of residence for leisure, business, or other purposes. In this chapter, we provide a comprehensive definition of the tourism industry and its key components.
 

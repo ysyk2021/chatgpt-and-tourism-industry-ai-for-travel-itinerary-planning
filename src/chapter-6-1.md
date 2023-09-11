@@ -1,5 +1,4 @@
-Chapter 6: Steps to Implement ChatGPT for Travel Itinerary Planning
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the key steps for implementing ChatGPT effectively in the tourism industry for travel itinerary planning. Whether you are a travel agency, tour operator, or technology provider, these steps will guide you through the process of integrating ChatGPT into your services.
 

@@ -1,5 +1,4 @@
-Chapter 6: How ChatGPT Can Be Used for Travel Itinerary Planning
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the practical applications of ChatGPT in the context of travel itinerary planning within the tourism industry. ChatGPT, with its natural language processing capabilities and vast knowledge base, can be a powerful tool for enhancing the travel planning experience.
 
